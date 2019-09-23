@@ -17,6 +17,7 @@ class Vare {
             this.pris = pris;
         }
     }
+
     //  GET/SET for navn
     public String getNavn() {
         return navn;

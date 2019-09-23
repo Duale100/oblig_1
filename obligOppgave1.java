@@ -34,5 +34,6 @@ public class obligOppgave1 {
         System.out.println("Gitt radiusen: " + radius + ". Blir diameteren: " + df2.format(diameter));
         System.out.println("Gitt radiusen: " + radius + ". Blir omrkretsen: " + df2.format(omkrets));
         System.out.println("Gitt radiusen: " + radius + ". Blir arealet: " + df2.format(areal));
+        
     }
 }
